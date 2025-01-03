@@ -1,4 +1,4 @@
-![ALt text](https://raw.githubusercontent.com/abdo-skhairi/libft/refs/heads/main/65eb8ad4cf29d52d49e0e6ca60a45c4a.jpg)
+![ALt text](https://raw.githubusercontent.com/abdo-skhairi/libft/refs/heads/main/library.jpg)
 
 ### Summary of the Libft Project in 42 Cursus
 
