@@ -1,3 +1,5 @@
+![ALt text](https://raw.githubusercontent.com/abdo-skhairi/libft/refs/heads/main/65eb8ad4cf29d52d49e0e6ca60a45c4a.jpg)
+
 ### Summary of the Libft Project in 42 Cursus
 
 The **Libft project** is one of the foundational tasks in the 42 *Cursus*. It requires creating a custom C library that includes re-implemented standard C functions and additional utility functions. The project’s main goal is to strengthen your understanding of C programming fundamentals while preparing you for more complex projects later in the program.
