@@ -51,3 +51,10 @@ The **Libft project** is one of the foundational tasks in the 42 *Cursus*. It re
 
 ### Importance:
 The **Libft** project serves as the first major stepping stone in the 42 *Cursus*. It develops problem-solving skills, teaches core programming principles, and lays the groundwork for future projects. Success in this project reflects a solid grasp of C programming essentials.
+
+## 📬 Contact Me
+
+- 📧 **Email:** skhairi.abderahmane@gmail.com  
+- 📸 **Instagram:** [@abdo.skh](https://instagram.com/abdo.skh)
+
+---
